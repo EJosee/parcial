@@ -4,11 +4,7 @@
 			';
 			
 	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap.css">';
-	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap.css.css">';
-	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap.min.css">';
-	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap-theme.css">';
-	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap-theme.css.css">';
-	echo '<link rel= "stylesheet" type = "text/css" href = "css/bootstrap-theme.min.css">';
+
 	
 	echo '	<script src = "js/bootstrap.js"></script>
 			<script src = "js/bootstrap.min.js"></script>
