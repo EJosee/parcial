@@ -4,7 +4,7 @@
 <head>
 
     <?php include('head.php'); ?>
-	<title>Beckenbauer</title>
+	<title>Beckenbauer..</title>
 </head>
 
 <body>
