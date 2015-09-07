@@ -12,21 +12,20 @@ echo '
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src = "imgs/slider/1900x1080.png" />
+                <img src = "imgs/slider/01.png" />
                 <div class="carousel-caption">
-                    <h2>Caption 1</h2>
+                                    </div>
+            </div>
+            <div class="item">
+                <img src = "imgs/slider/02.png" />
+                <div class="carousel-caption">
+                    
                 </div>
             </div>
             <div class="item">
-                <img src = "imgs/slider/1900x1080.png" />
+                <img src = "imgs/slider/03.png" />
                 <div class="carousel-caption">
-                    <h2>Caption 2</h2>
-                </div>
-            </div>
-            <div class="item">
-                <img src = "imgs/slider/1900x1080.png" />
-                <div class="carousel-caption">
-                    <h2>Caption 3</h2>
+                   
                 </div>
             </div>
         </div>
