@@ -31,114 +31,243 @@
         </div>
         <!-- Section end -->
 
-        <!-- Features Section  -->
-        <div class="row text-center">
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img class="img-circle img-responsive img-center" src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripcion</h3>
-                        <p>....</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m1">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+        <!--slide list Section -->
+        <div class="container">
+		<div class="row text-center">
+			<div class="well">
+            <!-- Carousel-->            
+            <div id="othCarousel" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class="row text-center">
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/01.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis1">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
 
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripción</h3>
-                        <p>...</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m2">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/02.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis2">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
 
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img class="img-circle img-responsive img-center" src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripcion</h3>
-                        <p>....</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m3">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/03.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis3">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
 
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripción</h3>
-                        <p>...</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m4">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/04.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis4">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
 			
+						<div class="row">
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/05.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis5">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+								
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/06.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis6">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
 
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripción</h3>
-                        <p>...</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m5">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-			
-			<div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img class="img-circle img-responsive img-center" src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripcion</h3>
-                        <p>....</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m6">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/07.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis7">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/08.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis8">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- Item 2 -->
+					<div class="item">
+                        <div class="row text-center">
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/09.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis9">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
 
-            <div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripción</h3>
-                        <p>...</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m7">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/10.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis10">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/11.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis11">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/12.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis12">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
 			
-			<div class="col-md-3 col-sm-6 hero-feature">
-                <div class="thumbnail">
-                    <img class="img-circle img-responsive img-center" src="http://placehold.it/800x500" alt="">
-                    <div class="caption">
-                        <h3>Descripcion</h3>
-                        <p>....</p>
-                        <p>
-                            <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#m8">Comprar!</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div
-        <!-- Section end -->
+						<div class="row">
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/13.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis13">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+								
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/14.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis14">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class=" img-center" src="imgs/calz/15.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripción</h3>
+										<p>Precio: $40</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis15">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-3 col-sm-6 hero-feature">
+								<div class="thumbnail">
+									<img class="img-circle  img-center" src="imgs/calz/16.jpg" width="100px" height="100px">
+									<div class="caption">
+										<h3>Descripcion</h3>
+										<p>Precio: $35</p>
+										<p>
+											<a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#vis16">Comprar!</a>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+                <a class="left carousel-control" href="#othCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+                <a class="right carousel-control" href="#othCarousel" data-slide="next"><span class="icon-next"></span></i></a>
+                
+                <ol class="carousel-indicators">
+                    <li data-target="#othCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#othCarousel" data-slide-to="1"></li>
+                </ol>                
+            </div><!-- End Carousel --> 
+        </div><!-- End Well -->
+    </div>
+</div>
 		
 		<!-- Modals/modales -->
 		<div class="modal fade" id="contac">
@@ -165,148 +294,406 @@
 		</div><!-- /.modal -->
 		
 		
-		<div class="modal fade" id="m1">
+		<div class="modal fade" id="vis1">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-					<img class="img-circle img-responsive img-center" src="http://placehold.it/800x500" alt="">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/01.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		
-		<div class="modal fade" id="m2">
+		<div class="modal fade" id="vis2">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/02.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		
-		<div class="modal fade" id="m3">
+		<div class="modal fade" id="vis3">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/03.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		
-		<div class="modal fade" id="m4">
+		<div class="modal fade" id="vis4">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/04.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		
-		<div class="modal fade" id="m5">
+		<div class="modal fade" id="vis5">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/05.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		
-		<div class="modal fade" id="m7">
+		<div class="modal fade" id="vis6">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/06.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		<!--Modals end -->
 		
-		<div class="modal fade" id="m6">
+		<div class="modal fade" id="vis7">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/07.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		<!--Modals end -->
 		
-		<div class="modal fade" id="m8">
+		<div class="modal fade" id="vis8">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title">Modal title</h4>
+						<h4 class="modal-title">Titulo</h4>
 					</div>
-					<div class="modal-body">
-						<p>One fine body&hellip;</p>
-					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/08.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						<button type="button" class="btn btn-primary">Save changes</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<!-- Modal Item 2 -->
+		<div class="modal fade" id="vis9">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/09.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<div class="modal fade" id="vis10">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/10.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<div class="modal fade" id="vis11">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/11.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<div class="modal fade" id="vis12">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/12.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<div class="modal fade" id="vis13">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/13.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		
+		<div class="modal fade" id="vis14">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/14.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		<!--Modals end -->
+		
+		<div class="modal fade" id="vis15">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/15.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+		<!--Modals end -->
+		
+		<div class="modal fade" id="vis16">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Titulo</h4>
+					</div>
+					<div class="row">
+							<div class="col-md-5">
+								<img class="img-responsive" src="imgs/calz/16.jpg" alt="">
+							</div>
+							<div class="col-md-5">
+								<strong><p>Detalles</p></strong>
+									<li class="glyphicon " aria-hidden="true"> </li>
+									<br/>
+							</div>
+						</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						<button type="button" class="btn btn-primary">Realizar Compra!</button>
 					</div>
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
@@ -340,7 +727,7 @@
 		<!-- Activate the Carousel -->
 		<script>
 		$("#othCarousel").carousel({
-			interval: 4000 //speed to changes
+			interval: 6000 //speed to changes
 		})
 		</script>
 		<script>
