@@ -1,6 +1,6 @@
 ﻿<?php
 
-	echo '<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	echo '<nav class="navbar mycolor-navbar navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -10,33 +10,33 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Beckenbauer</a>
+                <a href="index.php"><font size="5" color="#F5FBEF">Beckenbauer</font></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.php">Inicio</a>
+                        <a style="color: #F5FBEF;" href="index.php">Inicio</a>
                     </li>
-                    <li>
-                        <a href="calzado.php">Calzado</a>
+                    <li class="breadcrum">
+                        <a style="color: #F5FBEF;" href="calzado.php">Calzado</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cuidado del Calzado <b class="caret"></b></a>
+                        <a style="color: #F5FBEF;" href="#" class="dropdown-toggle" data-toggle="dropdown">Cuidado del Calzado <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="tcnnarrow.php">Tacón Narrow</a>
+                                <a href="narrow.php">Tacón Narrow</a>
                             </li>
                             <li>
-                                <a href="tcnclassic.php">Tacón Classic</a>
+                                <a href="classic.php">Tacón Classic</a>
                             </li>
                             <li>
-                                <a href="tcnwide.php">Tacón Wide</a>
+                                <a href="wide.php">Tacón Wide</a>
                             </li>
                         </ul>
                     </li>
 					<li>
-						<a class="btn" data-toggle="modal" data-target="#contac">Contactanos</a>
+						<a style="color: #F5FBEF;" class="btn" data-toggle="modal" data-target="#contac">Contactanos</a>
 					</li>
                 </ul>  
        
